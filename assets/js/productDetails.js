@@ -79,7 +79,7 @@ const dispalyProductInfo = async()=>{
 
 
 
-       const info = `
+       let info = `
        
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
@@ -118,3 +118,17 @@ const dispalyProductInfo = async()=>{
 }
 
 dispalyProductInfo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
